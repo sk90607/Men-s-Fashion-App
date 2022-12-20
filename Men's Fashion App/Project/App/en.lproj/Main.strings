@@ -1,0 +1,111 @@
+
+/* Class = "UIButton"; normalTitle = "CATEGORY"; ObjectID = "1Nc-O1-ht0"; */
+"1Nc-O1-ht0.normalTitle" = "CATEGORY";
+
+/* Class = "UILabel"; text = "Rs. 210"; ObjectID = "37T-QN-m4b"; */
+"37T-QN-m4b.text" = "Rs. 210";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "3Ei-Xt-8D7"; */
+"3Ei-Xt-8D7.normalTitle" = "Sign Up";
+
+/* Class = "UIButton"; normalTitle = "New User?"; ObjectID = "4hj-D8-Af3"; */
+"4hj-D8-Af3.normalTitle" = "New User?";
+
+/* Class = "UILabel"; text = "Shirt"; ObjectID = "BbZ-5T-NyP"; */
+"BbZ-5T-NyP.text" = "Shirt";
+
+/* Class = "UILabel"; text = "T-Shirt"; ObjectID = "CIQ-au-ELB"; */
+"CIQ-au-ELB.text" = "T-Shirt";
+
+/* Class = "UIButton"; normalTitle = "CART"; ObjectID = "Dnf-0q-oem"; */
+"Dnf-0q-oem.normalTitle" = "CART";
+
+/* Class = "UILabel"; text = "Bottomwear"; ObjectID = "DxZ-je-csM"; */
+"DxZ-je-csM.text" = "Bottomwear";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Ezp-Op-nIW"; */
+"Ezp-Op-nIW.text" = "Name";
+
+/* Class = "UILabel"; text = "Shirt"; ObjectID = "Hd4-l6-eVh"; */
+"Hd4-l6-eVh.text" = "Shirt";
+
+/* Class = "UILabel"; text = "Trouser"; ObjectID = "IIc-oR-Kyq"; */
+"IIc-oR-Kyq.text" = "Trouser";
+
+/* Class = "UILabel"; text = "->"; ObjectID = "Lwc-Se-doe"; */
+"Lwc-Se-doe.text" = "->";
+
+/* Class = "UILabel"; text = "Mobile No."; ObjectID = "P4U-Du-Lxn"; */
+"P4U-Du-Lxn.text" = "Mobile No.";
+
+/* Class = "UILabel"; text = "Rs. 210"; ObjectID = "Pdp-xI-8nm"; */
+"Pdp-xI-8nm.text" = "Rs. 210";
+
+/* Class = "UILabel"; text = "Rs. 210"; ObjectID = "RGR-QO-8HX"; */
+"RGR-QO-8HX.text" = "Rs. 210";
+
+/* Class = "UIButton"; normalTitle = "CATEGORY"; ObjectID = "Tf6-zT-qSP"; */
+"Tf6-zT-qSP.normalTitle" = "CATEGORY";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "UZJ-Et-Q7Z"; */
+"UZJ-Et-Q7Z.text" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "UZn-aO-PlK"; */
+"UZn-aO-PlK.normalTitle" = "Login";
+
+/* Class = "UIButton"; normalTitle = "CART"; ObjectID = "VeT-pZ-lCE"; */
+"VeT-pZ-lCE.normalTitle" = "CART";
+
+/* Class = "UILabel"; text = "Footwear"; ObjectID = "ZFn-5n-nKg"; */
+"ZFn-5n-nKg.text" = "Footwear";
+
+/* Class = "UILabel"; text = "Rs. 210"; ObjectID = "aB7-XN-HWH"; */
+"aB7-XN-HWH.text" = "Rs. 210";
+
+/* Class = "UIButton"; normalTitle = "CART"; ObjectID = "cUe-Bf-8Ir"; */
+"cUe-Bf-8Ir.normalTitle" = "CART";
+
+/* Class = "UILabel"; text = "text"; ObjectID = "cZa-0o-Ma2"; */
+"cZa-0o-Ma2.text" = "text";
+
+/* Class = "UILabel"; text = "T-Shirt"; ObjectID = "dOM-L8-TK6"; */
+"dOM-L8-TK6.text" = "T-Shirt";
+
+/* Class = "UIButton"; normalTitle = "CART"; ObjectID = "dRj-m1-bDw"; */
+"dRj-m1-bDw.normalTitle" = "CART";
+
+/* Class = "UILabel"; text = "Accessories"; ObjectID = "dvm-ji-I9N"; */
+"dvm-ji-I9N.text" = "Accessories";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "gz7-Oj-Q4m"; */
+"gz7-Oj-Q4m.text" = "Name";
+
+/* Class = "UILabel"; text = "Rs. 210"; ObjectID = "h9e-Pa-gzd"; */
+"h9e-Pa-gzd.text" = "Rs. 210";
+
+/* Class = "UILabel"; text = "Trouser"; ObjectID = "hUM-Zh-pm1"; */
+"hUM-Zh-pm1.text" = "Trouser";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "lry-4h-Dzg"; */
+"lry-4h-Dzg.text" = "Password";
+
+/* Class = "UILabel"; text = "Rs. 210"; ObjectID = "lvQ-WG-zBQ"; */
+"lvQ-WG-zBQ.text" = "Rs. 210";
+
+/* Class = "UIButton"; normalTitle = "CATEGORY"; ObjectID = "nkY-dy-IRa"; */
+"nkY-dy-IRa.normalTitle" = "CATEGORY";
+
+/* Class = "UILabel"; text = "Jeans"; ObjectID = "ryz-2c-Ukd"; */
+"ryz-2c-Ukd.text" = "Jeans";
+
+/* Class = "UILabel"; text = "Jeans"; ObjectID = "tvJ-9p-vT7"; */
+"tvJ-9p-vT7.text" = "Jeans";
+
+/* Class = "UILabel"; text = "Topwear"; ObjectID = "wnI-xn-wQC"; */
+"wnI-xn-wQC.text" = "Topwear";
+
+/* Class = "UILabel"; text = "Rs. 210"; ObjectID = "xpr-Mk-0ft"; */
+"xpr-Mk-0ft.text" = "Rs. 210";
+
+/* Class = "UILabel"; text = "Rs. 210"; ObjectID = "yGM-Il-wZf"; */
+"yGM-Il-wZf.text" = "Rs. 210";
